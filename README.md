@@ -15,7 +15,7 @@ You can click the Preview link to take a look at your changes.
 
 <!-- DATE - 20_11_2022 Updating GitHub Readme.md -->
 <h1 align="center">Hi 👋, I'm Aditya Ratnaker</h1>
-<h3 align="center">A Frontend Developer and an aspiring Backend developer.</h3>
+<h3 align="center">A Frontend Developer and an aspiring Backend Developer.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ratnakeraditya04&label=Profile%20views&color=0e75b6&style=flat" alt="ratnakeraditya04" /> </p>
 
@@ -25,11 +25,13 @@ You can click the Preview link to take a look at your changes.
 
 - 🔭 I’m currently working on **making my Backend Strong.**
 
-- 🌱 I’m currently learning **Solidity and React.js**
+- 🌱 I’m currently learning **BlockChain Technologies and currently making projects with the help of React.js.**
 
 - 👯 I’m looking to collaborate on **many of the open source projects available to contribute.**
 
 - 📫 How to reach me **ratnakeraditya04@gmail.com**
+
+- ⚡ Fun fact **I think I am funny.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -55,5 +57,3 @@ You can click the Preview link to take a look at your changes.
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ratnakeraditya04&show_icons=true&locale=en" alt="ratnakeraditya04" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ratnakeraditya04&" alt="ratnakeraditya04" /></p>
-
-
