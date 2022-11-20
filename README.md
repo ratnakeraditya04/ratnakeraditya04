@@ -14,6 +14,7 @@ You can click the Preview link to take a look at your changes.
 <!-- Show some ❤️ by starring my repositories & follow me for more help! Aditya Ratnaker --> -->
 
 <!-- DATE - 20_11_2022 Updating GitHub Readme.md --><h1 align="center">Hi 👋, I'm Aditya Ratnaker</h1>
+<h1 align="center">Hi 👋, I'm Aditya Ratnaker</h1>
 <h3 align="center">A Frontend Developer and an aspiring Backend Developer.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ratnakeraditya04&label=Profile%20views&color=0e75b6&style=flat" alt="ratnakeraditya04" /> </p>
@@ -22,7 +23,7 @@ You can click the Preview link to take a look at your changes.
 
 <p align="left"> <a href="https://twitter.com/ratnaditya_04" target="blank"><img src="https://img.shields.io/twitter/follow/ratnaditya_04?logo=twitter&style=for-the-badge" alt="ratnaditya_04" /></a> </p>
 
-- 🔭 I’m currently working on **making my Backend Strong.**
+- 🔭 I’m currently working on **making my Backend Development strong.**
 
 - 🌱 I’m currently learning **BlockChain Technologies and currently making projects with the help of React.js.**
 
@@ -34,7 +35,7 @@ You can click the Preview link to take a look at your changes.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://codepen.io/@ratnaditya_04" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="@ratnaditya_04" height="30" width="40" /></a>
+<a href="https://codepen.io/ratnaditya_04" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="ratnaditya_04" height="30" width="40" /></a>
 <a href="https://twitter.com/ratnaditya_04" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ratnaditya_04" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/aditya-ratnaker" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aditya-ratnaker" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/19149395/red-phoenix-04" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="19149395/red-phoenix-04" height="30" width="40" /></a>
@@ -44,7 +45,7 @@ You can click the Preview link to take a look at your changes.
 <a href="https://www.hackerrank.com/ratnakeraditya04" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="ratnakeraditya04" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/blacktornado" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="blacktornado" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/ratnaditya_04" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ratnaditya_04" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/aditya ratnaker" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="aditya ratnaker" height="30" width="40" /></a>
+<a href="https://www.hackerearth.com/@ratnakeraditya04" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@ratnakeraditya04" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/ratnakeraditya04" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="ratnakeraditya04" height="30" width="40" /></a>
 </p>
 
@@ -56,4 +57,3 @@ You can click the Preview link to take a look at your changes.
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ratnakeraditya04&show_icons=true&locale=en" alt="ratnakeraditya04" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ratnakeraditya04&" alt="ratnakeraditya04" /></p>
-
