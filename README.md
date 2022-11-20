@@ -13,7 +13,7 @@ You can click the Preview link to take a look at your changes.
 
 <!-- Show some ❤️ by starring my repositories & follow me for more help! Aditya Ratnaker --> -->
 
-<!-- DATE - 20_11_2022 Updating GitHub Readme.md --><h1 align="center">Hi 👋, I'm Aditya Ratnaker</h1>
+<!-- DATE - 20_11_2022 Updating GitHub Readme.md -->
 <h1 align="center">Hi 👋, I'm Aditya Ratnaker</h1>
 <h3 align="center">A Frontend Developer and an aspiring Backend Developer.</h3>
 
