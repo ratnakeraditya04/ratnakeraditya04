@@ -31,7 +31,7 @@ You can click the Preview link to take a look at your changes.
 
 - 📫 How to reach me **ratnakeraditya04@gmail.com**
 
-- ⚡ Fun fact **I think I am funny.**
+- ⚡ Description -  **I am currently a Third Year undergraduate student in CSE department at IIITG - Indian Institute of Information Technology, Guwahati.I am currently trying to upskill myself and learning Web Development and making some cool and awesome projects. **
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
